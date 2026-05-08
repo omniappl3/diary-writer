@@ -16,4 +16,4 @@ Getting Started:
     [help],[h]: Shows this menu 
     [clear] : Clear terminal
     
-NOTE: THIS CODE IS UNSIGNED, HOWEVER IT IS COMPLETELY SAFE FOR USE Meant only for personal use
+NOTE: THIS CODE IS UNSIGNED, HOWEVER IT IS COMPLETELY SAFE FOR USE 
