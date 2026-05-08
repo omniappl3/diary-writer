@@ -1,5 +1,5 @@
 # diary-writer
-VERSION 1.1
+VERSION 1.1\t
 A command-line level program for windows meant for reading and writing diary entries. 
 Useful for recording events digitally in a textual format.
 Getting Started:
