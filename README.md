@@ -3,9 +3,9 @@ VERSION 1.1
 A command-line level program for windows meant for reading and writing diary entries. 
 Useful for recording events digitally in a textual format.
 Getting Started:
-  Install and run the setup wizard
-  Run the program
-  Enter user's name THIS CANNOT BE CHANGED THROUGH THE PROGRAM LATER
+  Install and run the setup wizard, 
+  Run the program, 
+  Enter user's name, 
   Commands: 
     [idle] : Activate 'Idle' mode 
     [exit] : Stop program 
