@@ -5,7 +5,8 @@ OWNER_FILE = "owner.txt"
 def get_owner():
 
     if not os.path.exists(OWNER_FILE):
-        owner = input("Enter owner name: ").strip()
+        owner = input("Enter owner name: ")
+        owner = owner.strip()
         with open(OWNER_FILE, "w", encoding="utf-8") as file:
             file.write(owner)
         return owner
